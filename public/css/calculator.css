@@ -1,0 +1,33 @@
+/* Swap button perfect circle */
+#swap-btn {
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border-radius: 50%;
+}
+
+/* Currency row hover */
+.currency-row:hover {
+  background-color: rgba(29, 125, 252, 0.1);
+}
+
+/* Popup scroll */
+#currency-popup {
+  width: 100%;
+  max-width: 288px; /* match approx form width */
+  overflow-y: auto;
+}
+
+/* Each currency item in dropdown */
+.currency-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.currency-item:hover {
+  background-color: rgba(29, 125, 252, 0.1);
+}

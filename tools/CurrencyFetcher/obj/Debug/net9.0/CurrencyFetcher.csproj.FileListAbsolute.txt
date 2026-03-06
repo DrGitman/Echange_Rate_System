@@ -1,0 +1,14 @@
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\bin\Debug\net9.0\CurrencyFetcher.exe
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\bin\Debug\net9.0\CurrencyFetcher.deps.json
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\bin\Debug\net9.0\CurrencyFetcher.runtimeconfig.json
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\bin\Debug\net9.0\CurrencyFetcher.dll
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\bin\Debug\net9.0\CurrencyFetcher.pdb
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.AssemblyInfoInputs.cache
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.AssemblyInfo.cs
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.csproj.CoreCompileInputs.cache
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.dll
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\refint\CurrencyFetcher.dll
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.pdb
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.genruntimeconfig.cache
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\ref\CurrencyFetcher.dll
