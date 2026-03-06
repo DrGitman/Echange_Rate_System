@@ -2,7 +2,7 @@
 
 A premium, high-performance currency exchange and trend analysis application built with **Laravel**, **Tailwind CSS**, and **.NET**.
 
-## 🌟 Features
+## Features
 
 -   **Live Exchange Calculator**: Real-time conversions for over 160+ currencies worldwide.
 -   **Dynamic Trend Graphs**: Visualize historical data across 1D, 1W, 1M, and 1Q timeframes.
@@ -11,14 +11,14 @@ A premium, high-performance currency exchange and trend analysis application bui
 -   **User Profiles**: Customizable user accounts with avatar uploads and persistent dark mode settings.
 -   **Secure Authentication**: Full login/signup system with advanced password security and visibility toggles.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 -   **Frontend**: Tailwind CSS (with Glassmorphism), Vanilla JavaScript, Chart.js.
 -   **Backend**: Laravel (PHP 8+).
 -   **Data Processing**: C# (.NET Core) for high-performance currency fetching and API orchestration.
 -   **Database**: PostgreSQL (configurable via `.env`).
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -52,7 +52,7 @@ A premium, high-performance currency exchange and trend analysis application bui
     ```
     Access the app at `http://127.0.0.1:8000`.
 
-## 📁 Project Structure
+## Project Structure
 
 -   `app/Http/Controllers`: Backend logic for rates and profile management.
 -   `resources/views`: Blade templates for the UI.
@@ -60,7 +60,7 @@ A premium, high-performance currency exchange and trend analysis application bui
 -   `public/js`: Frontend interactivity scripts.
 -   `resources/data`: Country and currency definitions.
 
-## 📄 License
+## License
 
 This project is for personal use. All rights reserved.
 
