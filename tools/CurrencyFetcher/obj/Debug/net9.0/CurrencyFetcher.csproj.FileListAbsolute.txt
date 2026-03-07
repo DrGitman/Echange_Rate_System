@@ -12,3 +12,4 @@ D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9
 D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.pdb
 D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.genruntimeconfig.cache
 D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\ref\CurrencyFetcher.dll
+D:\personal projects 2\Exchange_Rate_System\tools\CurrencyFetcher\obj\Debug\net9.0\CurrencyFetcher.sourcelink.json

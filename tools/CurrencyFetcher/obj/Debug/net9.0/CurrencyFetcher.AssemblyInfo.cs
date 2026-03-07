@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurrencyFetcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b3e8c5b7953a12275ebb53f065e45e7b66618f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurrencyFetcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurrencyFetcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
